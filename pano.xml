@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node12" appversion="7.1.7" hassounds="0" apprev="20981">
+  <panorama id="node12">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="18.5546" fovmode="2">
+      <start fov="100" tilt="-0.190509" pan="146.614" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="22.90" author="" nodeid="node12" latitude="-26.99245459" heading="18.5546" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63767253" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:14"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.36645" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="146.751" url="{node11}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node11">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="9.00647" fovmode="2">
+      <start fov="100" tilt="-0.956193" pan="137.549" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="15.60" author="" nodeid="node11" latitude="-26.99246775" heading="9.00647" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63769130" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:14"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.36645" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-42.7968" url="{node12}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.33883" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="137.598" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node9">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-171.527" fovmode="2">
+      <start fov="100" tilt="-0.460278" pan="-41.0574" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="13.10" author="" nodeid="node9" latitude="-26.99248087" heading="-171.527" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63770975" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:13"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.33883" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-222.936" url="{node11}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.98354" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-127.863" url="{node10}"/>
+      <hotspot description="" id="Point03" target="$fwd" distance="4.14652" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-41.0639" url="{node8}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node10">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-57.5825" fovmode="2">
+      <start fov="100" tilt="-0.119702" pan="165.102" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="14.40" author="" nodeid="node10" latitude="-26.99246146" heading="-57.5825" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63773054" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:13"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.98354" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-193.919" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node8">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="136.773" fovmode="2">
+      <start fov="100" tilt="-1.03449" pan="-95.9143" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="13.20" author="" nodeid="node8" latitude="-26.99250507" heading="136.773" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63774159" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:12"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="4.14652" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="87.2361" url="{node9}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.91212" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="278.711" url="{node6}"/>
+      <hotspot description="" id="Point03" target="$fwd" distance="3.46562" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="241.228" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="140.875" fovmode="2">
+      <start fov="100" tilt="0.166546" pan="-91.137" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="29.50" author="" nodeid="node7" latitude="-26.99251285" heading="140.875" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63777546" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:11"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="4.35352" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="269.053" url="{node3}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="3.46562" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="65.3302" url="{node8}"/>
+      <hotspot description="" id="Point03" target="$fwd" distance="4.4458" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="240.333" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="48.4614" fovmode="2">
+      <start fov="100" tilt="-0.54318" pan="177.592" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="16.70" author="" nodeid="node6" latitude="-26.99252569" heading="48.4614" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63775971" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:11"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.91212" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="10.3993" url="{node8}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.38575" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="177.282" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-49.9647" fovmode="2">
+      <start fov="100" tilt="-0.0717008" pan="79.2361" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="36.60" author="" nodeid="node5" latitude="-26.99253914" heading="-49.9647" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63777847" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:10"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.38575" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-101.145" url="{node6}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.54851" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="79.7349" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="117.914" fovmode="2">
+      <start fov="100" tilt="-0.853941" pan="149.395" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="42.20" author="" nodeid="node4" latitude="-26.99255378" heading="117.914" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63779826" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:10"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.54851" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="67.6136" url="{node5}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.19403" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="149.931" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-218.598" fovmode="2">
+      <start fov="100" tilt="-0.887906" pan="167.26" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="41.60" author="" nodeid="node3" latitude="-26.99253705" heading="-218.598" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63781000" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:09"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.19403" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-366.581" url="{node4}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.18416" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-192.434" url="{node2}"/>
+      <hotspot description="" id="Point03" target="$fwd" distance="4.35352" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-270.42" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-127.24" fovmode="2">
+      <start fov="100" tilt="-0.842582" pan="178.469" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="33.90" author="" nodeid="node2" latitude="-26.99251942" heading="-127.24" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63781972" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:08"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.18416" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-281.076" url="{node3}"/>
+      <hotspot description="" id="Point02" target="$fwd" distance="2.78465" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-181.494" url="{node1}"/>
+      <hotspot description="" id="Point03" target="$fwd" distance="4.4458" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-207.782" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <panorama id="node1">
+    <input width="1632" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelbiashidpi="1.000" levelingroll="0" height="1632" levelbias="0.400">
+      <level width="1632" predecode="0" height="1632" preload="0"/>
+      <level width="816" predecode="0" height="816" preload="0"/>
+      <level width="408" predecode="1" height="408" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-126.264" fovmode="2">
+      <start fov="100" tilt="-0.5579" pan="-0.616844" projection="4"/>
+      <flyin fov="170" tilt="-90" pan="0" projection="9"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max scaletofit="1" fov="140" fovfisheye="360" fovstereographic="330" tilt="90" pan="360"/>
+    </view>
+    <userdata description="" comment="" altitude="35.90" author="" nodeid="node1" latitude="-26.99250479" heading="-126.264" customnodeid="" source="" copyright="" title="Padaria e Confeitaria doce Pão" info="" longitude="-48.63779691" tags="IMG_20250514_150845_005_007_HDR" datetime="14/05/2025 15:08"/>
+    <hotspots width="180" wordwrap="1" height="20" smoothmovement="0">
+      <label backgroundalpha="1" width="180" enabled="1" textcolor="0x000000" border="1" wordwrap="1" backgroundcolor="0xffffff" borderradius="1" bordercolor="0x000000" height="20" background="1" textalpha="1" borderalpha="1"/>
+      <polystyle backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" mode="0" borderalpha="1" bordercolor="0x0000ff"/>
+      <hotspot description="" id="Point01" target="$fwd" distance="2.78465" title="Padaria e Confeitaria doce Pão" skinid="ht_node" tilt="0" pan="-0.517818" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" softedge="0" zoomspeed="2" blendcolor="0x000000" blendtime="1" zoomafteroutfov="40" zoomin="7" type="mesh" zoomoutpause="1"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" lockedmouse="0" lockedkeyboard="0" rubberband="0" sensitivity="8" speedwheel="1" lockedwheel="0" contextvr="1" contextfullscreen="1" hideabout="0" invertwheel="0" dblclickfullscreen="0" simulatemass="1" zoomcentercursor="1" contextprojections="0" lockedkeyboardzoom="0"/>
+  </panorama>
+  <masternode>
+    <userdata description="" comment="" copyright="" title="" author="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
