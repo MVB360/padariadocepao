@@ -68,7 +68,7 @@
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot id="Point01" url="{node11}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.33883" pan="-222.936" description=""/>
       <hotspot id="Point02" url="{node10}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.98354" pan="-127.863" description=""/>
-      <hotspot id="Point03" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="4.18096" pan="-42.6497" description=""/>
+      <hotspot id="Point03" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="5.36091" pan="-44.5784" description=""/>
     </hotspots>
     <media/>
     <transition enabled="1" type="mesh" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7"/>
@@ -112,13 +112,13 @@
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fov="140" fovstereographic="330" fovfisheye="360" scaletofit="1" pan="360"/>
     </view>
-    <userdata description="" customnodeid="" info="" nodeid="node8" source="" latitude="-26.99250447" tags="IMG_20250514_150845_005_007_HDR" longitude="-48.63774260" title="Padaria e Confeitaria doce Pão" altitude="13.20" author="" heading="136.773" datetime="14/05/2025 15:12" copyright="" comment=""/>
+    <userdata description="" customnodeid="" info="" nodeid="node8" source="" latitude="-26.99250985" tags="IMG_20250514_150845_005_007_HDR" longitude="-48.63775299" title="Padaria e Confeitaria doce Pão" altitude="13.20" author="" heading="136.773" datetime="14/05/2025 15:12" copyright="" comment=""/>
     <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
       <label enabled="1" background="1" bordercolor="0x000000" height="20" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" url="{node9}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="4.18096" pan="85.6503" description=""/>
-      <hotspot id="Point02" url="{node6}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.90543" pan="281.077" description=""/>
-      <hotspot id="Point03" url="{node7}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="3.38655" pan="242.744" description=""/>
+      <hotspot id="Point01" url="{node9}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="5.36091" pan="83.7215" description=""/>
+      <hotspot id="Point02" url="{node6}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="1.88298" pan="296.065" description=""/>
+      <hotspot id="Point03" url="{node7}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.25122" pan="235.294" description=""/>
     </hotspots>
     <media/>
     <transition enabled="1" type="mesh" softedge="0" blendtime="1" zoomout="0" blendcolor="0x000000" zoomfov="40" delay="none" zoomoutpause="1" zoomspeed="2" zoomafterinfov="140" zoomafteroutfov="40" zoomin="7"/>
@@ -143,7 +143,7 @@
       <label enabled="1" background="1" bordercolor="0x000000" height="20" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
       <hotspot id="Point01" url="{node3}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="4.35352" pan="271.045" description=""/>
-      <hotspot id="Point02" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="3.38655" pan="68.838" description=""/>
+      <hotspot id="Point02" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.25122" pan="61.3884" description=""/>
       <hotspot id="Point03" url="{node6}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.11512" pan="10.4115" description=""/>
     </hotspots>
     <media/>
@@ -168,7 +168,7 @@
     <hotspots height="20" smoothmovement="0" wordwrap="1" width="180">
       <label enabled="1" background="1" bordercolor="0x000000" height="20" textcolor="0x000000" wordwrap="1" borderalpha="1" borderradius="1" width="180" backgroundalpha="1" backgroundcolor="0xffffff" textalpha="1" border="1"/>
       <polystyle bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0" backgroundcolor="0x0000ff" borderalpha="1" handcursor="1"/>
-      <hotspot id="Point01" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.90543" pan="8.09842" description=""/>
+      <hotspot id="Point01" url="{node8}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="1.88298" pan="23.0869" description=""/>
       <hotspot id="Point02" url="{node5}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.34967" pan="177.686" description=""/>
       <hotspot id="Point03" url="{node7}" target="$fwd" tilt="0" skinid="ht_node" title="Padaria e Confeitaria doce Pão" distance="2.11512" pan="91.3394" description=""/>
     </hotspots>
